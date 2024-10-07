@@ -1,7 +1,7 @@
 .venv
 __pycache__
 credentials.py
-test_data
+test_data_private
 world_hapiness_report_test.ipynb
 world_happiness_report
 Test.html
