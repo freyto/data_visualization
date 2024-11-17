@@ -12,3 +12,5 @@ plotly_visualization.ipynb:
 - Write Plotly figures to html-file
 
 world_happiness_report.ipynb: Example data analysis
+
+save_jupyter_notebook_as_html.ipynb: How to safe jupyter notebooks as HTML-file with interactive plotls figures
